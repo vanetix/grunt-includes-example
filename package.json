@@ -1,0 +1,22 @@
+{
+  "name": "grunt-includes-example",
+  "version": "0.0.0",
+  "author": "vanetix <matmcfarland@gmail.com>",
+  "description": "grunt-includes example site",
+  "license": "MIT",
+  "readmeFilename": "Readme.md",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/vanetix/grunt-includes-example.git"
+  },
+  "devDependencies": {
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt": "~0.4.1",
+    "grunt-includes": "~0.3.3",
+    "grunt-contrib-less": "~0.6.4"
+  }
+}
