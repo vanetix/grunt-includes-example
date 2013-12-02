@@ -16,7 +16,7 @@
   "devDependencies": {
     "grunt-contrib-clean": "~0.5.0",
     "grunt": "~0.4.1",
-    "grunt-includes": "~0.3.3",
+    "grunt-includes": "~0.4.0",
     "grunt-contrib-less": "~0.6.4"
   }
 }
