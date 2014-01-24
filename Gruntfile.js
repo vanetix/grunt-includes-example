@@ -24,6 +24,7 @@ module.exports = function(grunt) {
         dest: 'build/',
         options: {
           flatten: true,
+          includePath: 'include',
           banner: '<!-- Site built using grunt includes! -->\n'
         }
       }
