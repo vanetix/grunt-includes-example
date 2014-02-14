@@ -1,10 +1,10 @@
 # grunt-includes-example
 
-An example site using [grunt-includes](https://github.com/vanetix/grunt-includes).
+An example site using [grunt-includes](https://github.com/vanetix/grunt-includes). This could be used as scaffolding or just a plain old example of how you can use `grunt-incudes` to clean up your static codebase.
 
 ## Build
 
-Run `grunt` to build pages in `pages/`.
+Run `grunt` to build the `site/` directory and output all built pages to `build/`.
 
 ## License (MIT)
 
